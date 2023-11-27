@@ -181,6 +181,15 @@
 	<ImageSource x:Key="GlamourUnavailable">pack://application:,,,/GustavNoesisGUI;component/Assets/Briarguard/Shared/Resources/ico_classRes_Glamour_missing.png</ImageSource>
 	<ImageSource x:Key="GZI_Psionic_Focus" >pack://application:,,,/GustavNoesisGUI;component/Assets/FollowersOfZerthimon/Shared/Resources/ico_classRes_GZI_Psionic_Focus_d.png</ImageSource>
 	<ImageSource x:Key="GZI_Psionic_FocusUnavailable" >pack://application:,,,/GustavNoesisGUI;component/Assets/FollowersOfZerthimon/Shared/Resources/ico_classRes_GZI_Psionic_Focus_missing.png</ImageSource>	
+	<ImageSource x:Key="SanguinePower">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_SanguinePower.png</ImageSource>
+	<ImageSource x:Key="SanguinePowerUnavailable">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_SanguinePowerUnavailable.png</ImageSource>
+	<ImageSource x:Key="SanguinePowerUsed">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_SanguinePowerUsed.png</ImageSource>
+	<ImageSource x:Key="BloodThirst">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_BloodThirst.png</ImageSource>
+	<ImageSource x:Key="BloodThirstUnavailable">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_BloodThirstUnavailable.png</ImageSource>
+	<ImageSource x:Key="BloodThirstUsed">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_BloodThirstUsed.png</ImageSource>
+	<ImageSource x:Key="TheForce">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_TheForce.png</ImageSource>
+	<ImageSource x:Key="TheForceUnavailable">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_TheForceUnavailable.png</ImageSource>
+	<ImageSource x:Key="TheForceUsed">pack://application:,,,/GustavNoesisGUI;component/Assets/Shared/Resources/ico_TheForceUsed.png</ImageSource>
 	<!-- EDIT HERE -->
 
 	<!-- This is the icon that appears on the tooltip -->
